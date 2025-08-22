@@ -2,8 +2,8 @@
 
 👋 Hi, I'm Aryan Andoria. This repo contains my solutions to Codeforces contests.
 
-🏁 **Contests Solved**: 3  
-📈 **Current Rating**: 852  
+🏁 **Contests Solved**: 4  
+📈 **Current Rating**: 1072  
 🔧 **Language**: Java
 
 ## 📂 Folder Structure
